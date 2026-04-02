@@ -49,7 +49,7 @@ Design a fuzzy logic system to determine the **washing machine cycle time** base
 ### How to Run
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `Q1\\\\\\\_Fuzzy\\\\\\\_Washing\\\\\\\_Machine.ipynb`
+2. Upload `Q1_Fuzzy_Washing_Machine.ipynb`
 3. Click **Runtime → Run All**
 
 ### 
