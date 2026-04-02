@@ -77,11 +77,11 @@ All dependencies are installed automatically inside the notebook using `!pip ins
 
 ## Credits
 
-**Developed by: Vibhuti Malik
-Course Project:** Introduction to Intelligent Systems
-**Institution:** Manipal University Jaipur
+**Developed by:** Vibhuti Malik
 
-\---
+**Course Project:** Introduction to Intelligent Systems
+
+**Institution:** Manipal University Jaipur
 
 ## License
 
